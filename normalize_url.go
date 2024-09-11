@@ -18,3 +18,4 @@ func normalizeURL(fullURL string) (string, error){
 
 	return normalizedString, nil
 }
+
